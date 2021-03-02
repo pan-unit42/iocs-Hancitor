@@ -1,0 +1,28 @@
+2020-12-15 THROUGH 2021-01-25 - FIVE EXAMPLES OF NETWORK PING TOOL DISCOVERED FROM HANCITOR INFECTIONS WITH COBALT STRIKE:
+
+NOTE: These files were always discovered in the same directory as the downloaded Word document that kicked off the Hancitor infection.
+
+- First seen: 2020-12-15
+- SHA256 hash: 2b3db85b06b60f46d03efc5e354fe0b36d19351e82d116d528a73203acadea66
+- File size: 237,056 bytes
+- File location: C:\Users\[username]\Downloads\Z.exe
+
+- First seen: 2020-12-17
+- SHA256 hash: c314c08ebaf43ecdea2ea65787670bbb0578ce4c5f8e65d0351e320b2b3bcdf9
+- File size: 239,104 bytes
+- File location: C:\Users\[username]\Documents\X.exe
+
+- First seen: 2021-01-13
+- SHA256 hash: b329abb04f60c258119ffdd7e0f9c7f4fef3afb673d6440cf2d1eb2d1602640b
+- File size: 269,824 bytes
+- File location: C:\Users\[username]\Documents\xx.exe
+
+- First seen: 2021-01-19
+- SHA256 hash: e41e0e22b8639f864d9a3b08daa53488ac2519277126774a6499d7675cfe401d
+- File size: 293,376 bytes
+- File location: C:\Users\[username]\Downloads\protoping.exe
+
+- First seen: 2021-01-20
+- SHA256 hash: bd93d88cb70f1e33ff83de4d084bb2b247d0b2a9cec61ae45745f2da85ca82d2
+- File size: 117,760 bytes
+- File location: C:\Users\[username]\Desktop\netpingall.exe
